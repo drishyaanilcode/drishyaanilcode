@@ -1,19 +1,41 @@
-# 💫 About Me:
 # Drishya Anil — Java Backend Developer
 
-Dubai-based Java Backend Developer with 5+ years in enterprise technology.
-Specialised in high-availability FinTech systems, event-driven microservices,
+Dubai-based Java Backend Developer with 5+ years in enterprise technology.  
+Specialising in high-availability FinTech systems, event-driven microservices,  
 and production-grade backend development.
 
-Currently building: Smart Order & Inventory Platform
-(Spring Boot 3.x | Kafka | Docker | AWS | PostgreSQL)
+---
 
-Background: L3 Production Support + Java Development
+## 🔧 Currently Building
+
+**Smart Order & Inventory Platform**  
+Event-driven microservices — Spring Boot 3.x | Kafka | Docker | AWS | PostgreSQL
+
+---
+
+## 💡 What Makes Me Different
+
+Background in L3 Production Support + Java Development  
 = backends built to survive production, not just pass tests.
 
-📍 Dubai, UAE | Available immediately
-📧 drishyaanil9396@gmail.com
-🔗 linkedin.com/in/drishya-anil
+✅ Maintained systems processing **200K+ daily transactions**  
+✅ Achieved **99.7% uptime** across enterprise Java systems  
+✅ Resolved **150+ production incidents** with 96% SLA compliance  
+
+---
+
+## 🛠 Tech Stack
+
+Java 17 | Spring Boot 3.x | Microservices | Kafka  
+AWS (EC2, S3, Lambda, CloudWatch) | Docker | Jenkins  
+PostgreSQL | MySQL | Oracle 12c | Spring Security | JWT
+
+---
+
+## 📍 Dubai, UAE — Immediate Joiner — Valid Residence Visa
+
+📧 drishyaanil9396@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/drishya-anil)
 
 
 ## 🌐 Socials:
